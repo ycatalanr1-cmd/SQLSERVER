@@ -1,7 +1,5 @@
 # Procedimiento práctico
 
-Esta sección documenta, paso a paso y con capturas de pantalla reales, el trabajo realizado por el Grupo 4 sobre SQL Server Agent. El procedimiento se conserva tal como fue realizado originalmente por el grupo; solo se agregaron explicaciones conceptuales y la estructura "Qué hacer / Dónde hacerlo / Qué debe aparecer / Resultado esperado" para facilitar que un principiante pueda seguirlo sin dificultad.
-
 La secuencia general es la siguiente:
 
 1. [Iniciar SQL Server Agent](01-iniciar-agente.md)

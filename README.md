@@ -17,4 +17,5 @@ Este manual está pensado para una persona que **nunca ha usado SQL Server Agent
 > * SQL Server Management Studio (SSMS) 22.
 > * SQL Server Agent, ejecutándose sobre el servidor local (`localhost`).
 >
-> Las capturas de pantalla del procedimiento muestran la conexión como `localhost` (instancia predeterminada). Si tu instalación usa una instancia con nombre (por ejemplo `localhost\SQLAGENT`), el procedimiento es idéntico: solo cambia el nombre que escribes al conectarte en SSMS.
+>
+

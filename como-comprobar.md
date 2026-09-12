@@ -23,6 +23,4 @@ El **Monitor de actividad de trabajo** permite ver, sin ejecutar ninguna consult
 
 ## 4. Historial del Job
 
-Adicional a lo documentado con capturas en este manual, SQL Server Agent guarda un historial detallado de cada ejecución. Para consultarlo: clic derecho sobre el Job → **Ver historial**. Ahí se puede expandir el Job para ver el resultado de cada paso por separado, junto con cualquier mensaje de error, en caso de haberlo.[^1]
-
-[^1]: Microsoft. *View the Job History*. Microsoft Learn. https://learn.microsoft.com/en-us/ssms/agent/view-the-job-history
+Adicional, SQL Server Agent guarda un historial detallado de cada ejecución. Para consultarlo: clic derecho sobre el Job → **Ver historial**. Ahí se puede expandir el Job para ver el resultado de cada paso por separado, junto con cualquier mensaje de error, en caso de haberlo.
